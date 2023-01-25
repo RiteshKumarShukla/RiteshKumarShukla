@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 💬 Ask me about **JavaScript,HTML,CSS**
+- 💬 Ask me about **JavaScript,HTML,CSS,React,Postman**
 
 - 📫 How to reach me **riteshshuklagem@gmail.com**
 
