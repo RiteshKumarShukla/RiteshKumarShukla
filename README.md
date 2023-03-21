@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
+- 👨‍💻 All of my projects are available at [https://riteshkumarshukla.github.io/](https://riteshkumarshukla.github.io/)
+
 - 💬 Ask me about **JavaScript, HTML, CSS, React, Redux, ChakraUI**
 
 - 📫 How to reach me **riteshshuklagem@gmail.com**
@@ -15,7 +17,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ritesh-shukla-1990b4202/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ritesh-shukla-1990b4202/" height="30" width="40" /></a>
 <a href="https://codesandbox.com/riteshkumarshukla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="riteshkumarshukla" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ritesh shukla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ritesh shukla" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ritesh__shukla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ritesh__shukla" height="30" width="40" /></a>
 </p>
 
