@@ -1,20 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ritesh Kumar Shukla</h1>
-<h3 align="center">I'm a **React.JS Developer**, **MERN Stack Developer**, and **Front End Developer**.
-
-<!-- Typewriter effect for skills -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/TypewriterJS/2.18.0/core.min.js"></script>
-<script>
-  new Typewriter('#typewriter', {
-    strings: ['React.JS Developer', 'MERN Stack Developer', 'Front End Developer'],
-    autoStart: true,
-    loop: true,
-    deleteSpeed: 20,
-    pauseDelay: 1000
-  });
-</script>
-
-<div id="typewriter"></div>
-</h3>
+<h3 align="center">I'm a **MERN Stack Developer**</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riteshkumarshukla&label=Profile%20views&color=0e75b6&style=flat" alt="riteshkumarshukla" /> </p>
 
