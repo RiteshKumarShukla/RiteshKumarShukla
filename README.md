@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ritesh Kumar Shukla</h1>
-<h3 align="center">I'm a **MERN Stack Developer**</h3>
+<h3 align="center">I'm a MERN Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riteshkumarshukla&label=Profile%20views&color=0e75b6&style=flat" alt="riteshkumarshukla" /> </p>
 
