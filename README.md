@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://riteshkumarshukla.github.io/](https://riteshkumarshukla.github.io/)
+- 👨‍💻 <a href="https://riteshkumarshukla.github.io/"> Portfolio Link: https://riteshkumarshukla.github.io/</a>
 
 - 💬 Ask me about **JavaScript, HTML, CSS, React, Redux, ChakraUI**
 
