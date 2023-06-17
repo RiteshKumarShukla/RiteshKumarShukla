@@ -26,7 +26,7 @@
 
 ---
 
-## 💻 Tech Stack
+<h2 align="center">💻 Tech Stack</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -49,7 +49,7 @@
 
 ---
 
-## 📊 GitHub Stats
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RiteshKumarShukla&show_icons=true&theme=midnight-purple&hide_border=true" alt="GitHub Stats" />
@@ -65,7 +65,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
+<h2 align="center">🏆 GitHub Trophies</h2>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=RiteshKumarShukla&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
@@ -73,7 +73,7 @@
 
 ---
 
-## ✍ Random Dev Quote
+<h2 align="center">✍ Random Dev Quote</h2>
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
@@ -81,8 +81,64 @@
 
 ---
 
-## 🔝 Top Contributed Repo
+<h2 align="center">🔝 Top Contributed Repo</h2>
 
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=RiteshKumarShukla&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
 </p>
+
+<script>
+  // Words for typewriter effect
+  const words = [
+    "MERN Stack Developer",
+    "Software Developer",
+    "React Js Developer",
+    "Front End Developer"
+  ];
+
+  // Select the element to display the typewriter effect
+  const typewriterElement = document.querySelector("#typewriter");
+
+  let wordIndex = 0;
+  let charIndex = 0;
+  let isDeleting = false;
+
+  function type() {
+    const word = words[wordIndex];
+
+    if (isDeleting) {
+      // Delete characters
+      typewriterElement.textContent = word.substring(0, charIndex - 1);
+      charIndex--;
+    } else {
+      // Add characters
+      typewriterElement.textContent = word.substring(0, charIndex + 1);
+      charIndex++;
+    }
+
+    // Set typing speed
+    let typingSpeed = 200;
+
+    if (isDeleting) {
+      typingSpeed /= 2;
+    }
+
+    // Check if word is fully typed or deleted
+    if (!isDeleting && charIndex === word.length) {
+      // Pause before deleting
+      typingSpeed = 1500;
+      isDeleting = true;
+    } else if (isDeleting && charIndex === 0) {
+      // Move to the next word
+      isDeleting = false;
+      wordIndex++;
+      // Pause before typing
+      typingSpeed = 500;
+    }
+
+    setTimeout(type, typingSpeed);
+  }
+
+  // Start typing
+  window.addEventListener("DOMContentLoaded", type);
+</script>
