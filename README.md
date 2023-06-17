@@ -1,6 +1,6 @@
 <h1 align="center">Hi there! 👋 I'm Ritesh Kumar Shukla</h1>
 <h3 align="center">MERN Stack Developer | React.JS Developer | Front-End Developer | Software Developer</h3>
-<h1 style="background: linear-gradient(to right, #FF0000, #FF7F00, #FFFF00, #00FF00, #0000FF, #4B0082, #8B00FF); text-align: center;">
+<h1 align="center">
   <a href="#"><img src="https://readme-typing-svg.herokuapp.com?color=FF0000&center=true&lines=Full+Stack+Web+Developer;1500%2B+Hours+of+Coding+Experience;Data+Structures+And+Algorithms"></a>
 </h1>
 
