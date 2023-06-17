@@ -13,7 +13,7 @@
 ---
 
 <p align="center">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/ritesh-shukla-1990b4202/">
+  <a href="https://www.linkedin.com/in/riteshkrshukla/">
     <img src="https://img.shields.io/badge/LinkedIn-ritesh--shukla-%230177B5?style=flat-square&logo=linkedin">
   </a>
   <a href="https://codesandbox.com/riteshkumarshukla">
