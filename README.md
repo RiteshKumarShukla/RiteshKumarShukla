@@ -2,7 +2,7 @@
 <h3 align="center">MERN Stack Developer | React.JS Developer | Front-End Developer | Software Developer</h3>
 
 <h3><p align="center">
-  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?color=rainbow&center=true&lines=MERN+Stack+Developer%2C+React.js+Developer%2C+Front-End+Developer%2C+Software+Developer"></a>
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?color=red&center=true&lines=MERN+Stack+Developer%2C+React.js+Developer%2C+Front-End+Developer%2C+Software+Developer"></a>
 </p>
  <br/></h3>
 
