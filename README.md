@@ -1,5 +1,46 @@
 <h1 align="center">Hi there! 👋 I'm Ritesh Kumar Shukla</h1>
-<h3 align="center">MERN Stack Developer</h3>
+<h3 align="center">
+  <span id="typewriter"></span>
+  <script>
+    const typewriter = document.getElementById("typewriter");
+    const titles = [
+      "MERN Stack Developer",
+      "Software Developer",
+      "React Js Developer",
+      "Front End Developer"
+    ];
+    let index = 0;
+    let charIndex = 0;
+    let isDeleting = false;
+
+    function type() {
+      const title = titles[index];
+      if (isDeleting) {
+        typewriter.textContent = title.substring(0, charIndex - 1);
+        charIndex--;
+      } else {
+        typewriter.textContent = title.substring(0, charIndex + 1);
+        charIndex++;
+      }
+
+      if (!isDeleting && charIndex === title.length) {
+        isDeleting = true;
+        setTimeout(type, 2000);
+      } else if (isDeleting && charIndex === 0) {
+        isDeleting = false;
+        index++;
+        if (index === titles.length) {
+          index = 0;
+        }
+        setTimeout(type, 500);
+      } else {
+        setTimeout(type, 100);
+      }
+    }
+
+    type();
+  </script>
+</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=riteshkumarshukla&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
