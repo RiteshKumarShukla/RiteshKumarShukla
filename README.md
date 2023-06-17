@@ -1,13 +1,13 @@
 <h1 align="center">Hi there! 👋 I'm Ritesh Kumar Shukla</h1>
-<h3 align="center">MERN Stack Developer</h3>
+<h3 align="center">MERN Stack Developer | React.JS Developer | Front-End Developer | Software Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=riteshkumarshukla&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
 </p>
 
 <p align="center">
-  <a href="https://riteshkumarshukla.github.io/" target="_blank">Portfolio</a> •
-  <a href="mailto:riteshshuklagem@gmail.com">Contact</a>
+  <a href="https://riteshkumarshukla.github.io/" target="_blank" style="text-decoration: none; color: #4a4a4a; font-weight: bold;">Portfolio</a> •
+  <a href="mailto:riteshshuklagem@gmail.com" style="text-decoration: none; color: #4a4a4a; font-weight: bold;">Contact</a>
 </p>
 
 ---
@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-%23323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
   <img src="https://img.shields.io/badge/Node.js-%2343853D?style=for-the-badge&logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/ChakraUI-%234ED1C5?style=for-the-badge&logo=chakraui&logoColor=white">
+  <img src="https://img.shields.io/badge/Chakra UI-%2346D1C5?style=for-the-badge&logo=chakra-ui&logoColor=white">
   <img src="https://img.shields.io/badge/Express.js-%23404d59?style=for-the-badge&logo=express&logoColor=%2361DAFB">
   <img src="https://img.shields.io/badge/NPM-%23000000?style=for-the-badge&logo=npm&logoColor=white">
   <img src="https://img.shields.io/badge/Styled Components-%23DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
@@ -52,15 +52,15 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RiteshKumarShukla&show_icons=true&theme=midnight-purple&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RiteshKumarShukla&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&text_color=FFFFFF&icon_color=9CA3AF" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RiteshKumarShukla&theme=midnight-purple&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RiteshKumarShukla&theme=dark&hide_border=true&background=0D1117&stroke=FFFFFF&ring=1F6FEB&fire=1F6FEB&currStreakLabel=FFFFFF&sideNums=9CA3AF&currStreakNum=FFFFFF&sideLabels=9CA3AF" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiteshKumarShukla&layout=compact&theme=midnight-purple&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiteshKumarShukla&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&text_color=FFFFFF" alt="Top Languages" />
 </p>
 
 ---
@@ -68,7 +68,7 @@
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RiteshKumarShukla&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=RiteshKumarShukla&theme=juicyfresh&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -76,7 +76,7 @@
 <h2 align="center">✍ Random Dev Quote</h2>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
 </p>
 
 ---
