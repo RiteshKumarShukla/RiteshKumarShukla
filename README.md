@@ -1,93 +1,80 @@
-<img src="https://media.licdn.com/dms/image/D4D16AQHp7KcL9J_3SA/profile-displaybackgroundimage-shrink_350_1400/0/1687533628303?e=1694649600&v=beta&t=r25wt8fbS6OhnhOYdZvNB7ykettO3UNGp2ClUcAQyuM">
-<h1 align="center">Hi there! 👋 I'm Ritesh Kumar Shukla</h1>
-<h3 align="center">MERN Stack Developer | React.JS Developer | Front-End Developer | Software Developer</h3>
-<h1 align="center">
+<div align="center">
+  <img src="https://media.licdn.com/dms/image/D4D16AQHp7KcL9J_3SA/profile-displaybackgroundimage-shrink_350_1400/0/1687533628303?e=1694649600&v=beta&t=r25wt8fbS6OhnhOYdZvNB7ykettO3UNGp2ClUcAQyuM" alt="Cover Image" style="width:100%;">
+  <h1>Hi there! 👋 I'm Ritesh Kumar Shukla</h1>
+  <h3>MERN Stack Developer | React.JS Developer | Front-End Developer | Software Developer</h3>
   <a href="#"><img src="https://readme-typing-svg.herokuapp.com?color=FF0000&center=true&lines=Full+Stack+Web+Developer;1500%2B+Hours+of+Coding+Experience;Data+Structures+And+Algorithms"></a>
-</h1>
+</div>
 
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=riteshkumarshukla&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <a href="https://riteshkumarshukla.github.io/" target="_blank" style="text-decoration: none; color: #4a4a4a; font-weight: bold;">Portfolio</a> •
-  <a href="mailto:riteshshuklagem@gmail.com" style="text-decoration: none; color: #4a4a4a; font-weight: bold;">Contact</a>
-</p>
-
----
-
-<p align="center">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <a href="https://riteshkumarshukla.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=ionic&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="mailto:riteshshuklagem@gmail.com">
+    <img src="https://img.shields.io/badge/Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact">
+  </a>
   <a href="https://www.linkedin.com/in/riteshkrshukla/">
-    <img src="https://img.shields.io/badge/LinkedIn-ritesh--shukla-%230177B5?style=flat-square&logo=linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://codesandbox.com/riteshkumarshukla">
-    <img src="https://img.shields.io/badge/CodeSandbox-riteshkumarshukla-%23F0812B?style=flat-square&logo=codesandbox">
+  <a href="https://codesandbox.io/u/riteshkumarshukla">
+    <img src="https://img.shields.io/badge/CodeSandbox-151515?style=for-the-badge&logo=codesandbox&logoColor=white" alt="CodeSandbox">
   </a>
-  <a href="https://www.leetcode.com/ritesh__shukla">
-    <img src="https://img.shields.io/badge/LeetCode-ritesh__shukla-%23FFA116?style=flat-square&logo=leetcode">
+  <a href="https://leetcode.com/ritesh__shukla/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
   </a>
-</p>
+</div>
 
 ---
 
-<h2 align="center">💻 Tech Stack</h2>
+## 💻 Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-%23323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-  <img src="https://img.shields.io/badge/Node.js-%2343853D?style=for-the-badge&logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Chakra UI-%2346D1C5?style=for-the-badge&logo=chakra-ui&logoColor=white">
-  <img src="https://img.shields.io/badge/Express.js-%23404d59?style=for-the-badge&logo=express&logoColor=%2361DAFB">
-  <img src="https://img.shields.io/badge/NPM-%23000000?style=for-the-badge&logo=npm&logoColor=white">
-  <img src="https://img.shields.io/badge/Styled Components-%23DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
-  <img src="https://img.shields.io/badge/React Router-%23CA4245?style=for-the-badge&logo=react-router&logoColor=white">
-  <img src="https://img.shields.io/badge/Redux-%23593d88?style=for-the-badge&logo=redux&logoColor=white">
-  <img src="https://img.shields.io/badge/React-%2320232a?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-  <img src="https://img.shields.io/badge/Bootstrap-%23563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC?style=for-the-badge&logo=Canva&logoColor=white">
-  <img src="https://img.shields.io/badge/Notion-%23000000?style=for-the-badge&logo=notion&logoColor=white">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
-</p>
-
----
-
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RiteshKumarShukla&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&text_color=FFFFFF&icon_color=9CA3AF" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RiteshKumarShukla&theme=dark&hide_border=true&background=0D1117&stroke=FFFFFF&ring=1F6FEB&fire=1F6FEB&currStreakLabel=FFFFFF&sideNums=9CA3AF&currStreakNum=FFFFFF&sideLabels=9CA3AF" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiteshKumarShukla&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&text_color=FFFFFF" alt="Top Languages" />
-</p>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/Chakra%20UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white" alt="Chakra UI">
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+  <img src="https://img.shields.io/badge/Styled%20Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components">
+  <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva">
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">
+</div>
 
 ---
 
-<h2 align="center">🏆 GitHub Trophies</h2>
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RiteshKumarShukla&theme=juicyfresh&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies" />
-</p>
-
----
-
-<h2 align="center">✍ Random Dev Quote</h2>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RiteshKumarShukla&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=FFFFFF&icon_color=9CA3AF" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RiteshKumarShukla&theme=radical&hide_border=true&background=0D1117&stroke=FFFFFF&ring=1F6FEB&fire=1F6FEB&currStreakLabel=FFFFFF&sideNums=9CA3AF&currStreakNum=FFFFFF&sideLabels=9CA3AF" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiteshKumarShukla&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&text_color=FFFFFF" alt="Top Languages">
+</div>
 
 ---
 
-<h2 align="center">🔝 Top Contributed Repo</h2>
+## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=RiteshKumarShukla&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RiteshKumarShukla&theme=radical&no-frame=true&no-bg=true&column=-1" alt="GitHub Trophies">
+</div>
+
+---
+
+## ✍ Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote">
+</div>
+
+---
+
+## 🔝 Top Contributed Repo
+
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=RiteshKumarShukla&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
+</div>
