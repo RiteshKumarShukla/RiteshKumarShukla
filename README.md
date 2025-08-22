@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://media.licdn.com/dms/image/D4D16AQHp7KcL9J_3SA/profile-displaybackgroundimage-shrink_350_1400/0/1687533628303?e=1694649600&v=beta&t=r25wt8fbS6OhnhOYdZvNB7ykettO3UNGp2ClUcAQyuM" alt="Cover Image" style="width:100%;">
   <h1>Hi there! 👋 I'm Ritesh Kumar Shukla</h1>
   <h3>MERN Stack Developer | React.JS Developer | Front-End Developer | Software Developer</h3>
   <a href="#"><img src="https://readme-typing-svg.herokuapp.com?color=FF0000&center=true&lines=Full+Stack+Web+Developer;1500%2B+Hours+of+Coding+Experience;Data+Structures+And+Algorithms"></a>
